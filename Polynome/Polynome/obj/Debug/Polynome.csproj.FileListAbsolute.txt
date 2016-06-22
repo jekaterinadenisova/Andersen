@@ -1,0 +1,6 @@
+c:\users\екатерина\documents\visual studio 2015\Projects\Polynome\Polynome\bin\Debug\Polynome.exe.config
+c:\users\екатерина\documents\visual studio 2015\Projects\Polynome\Polynome\bin\Debug\Polynome.exe
+c:\users\екатерина\documents\visual studio 2015\Projects\Polynome\Polynome\bin\Debug\Polynome.pdb
+c:\users\екатерина\documents\visual studio 2015\Projects\Polynome\Polynome\obj\Debug\Polynome.csprojResolveAssemblyReference.cache
+c:\users\екатерина\documents\visual studio 2015\Projects\Polynome\Polynome\obj\Debug\Polynome.exe
+c:\users\екатерина\documents\visual studio 2015\Projects\Polynome\Polynome\obj\Debug\Polynome.pdb

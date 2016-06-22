@@ -6,21 +6,21 @@ using System.Threading.Tasks;
 
 namespace vector
 {
-    class Vector
+    public class Vector
     {
-        public Points beginPoint { get; set; } 
-        public Points endPoint { get; set; } 
+        public Points BeginPoint { get; set; } 
+        public Points EndPoint { get; set; } 
         public Vector(Points x1, Points x2)
          { 
-             beginPoint = x1; 
-             endPoint = x2; 
+             BeginPoint = x1; 
+             EndPoint = x2; 
          }
 
         public double Length
         {
             get 
             {
-                Points differenceOfVectors  = new Points(endPoint.X - beginPoint.X, endPoint.Y - beginPoint.Y, endPoint.Z - beginPoint.Z);
+                Points differenceOfVectors  = new Points(EndPoint.X - BeginPoint.X, EndPoint.Y - BeginPoint.Y, EndPoint.Z - BeginPoint.Z);
                 return Math.Sqrt(Math.Pow(differenceOfVectors.X, 2) + Math.Pow(differenceOfVectors.Y, 2) + Math.Pow(differenceOfVectors.Z, 2));
             }
         }
@@ -39,7 +39,7 @@ namespace vector
 
         public override string ToString()
         {
-            return string.Format("({0},{1})", beginPoint, endPoint);
+            return string.Format("({0},{1})", BeginPoint, EndPoint);
         }
 
 

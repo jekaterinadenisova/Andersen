@@ -49,7 +49,7 @@ namespace vector
                     }
                 }catch(FormatException)
                 {
-                    Console.WriteLine("Вы ввели  не число!");
+                    Console.WriteLine("Вы ввели не число!");
                 }
            }
         }

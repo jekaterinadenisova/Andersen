@@ -1,0 +1,8 @@
+C:\Users\Екатерина\Source\Repos\Andersen\vector\unitTestVector\bin\Debug\unitTestVector.dll
+C:\Users\Екатерина\Source\Repos\Andersen\vector\unitTestVector\bin\Debug\unitTestVector.pdb
+C:\Users\Екатерина\Source\Repos\Andersen\vector\unitTestVector\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Екатерина\Source\Repos\Andersen\vector\unitTestVector\bin\Debug\vector.exe
+C:\Users\Екатерина\Source\Repos\Andersen\vector\unitTestVector\bin\Debug\vector.pdb
+C:\Users\Екатерина\Source\Repos\Andersen\vector\unitTestVector\obj\Debug\unitTestVector.csprojResolveAssemblyReference.cache
+C:\Users\Екатерина\Source\Repos\Andersen\vector\unitTestVector\obj\Debug\unitTestVector.dll
+C:\Users\Екатерина\Source\Repos\Andersen\vector\unitTestVector\obj\Debug\unitTestVector.pdb
